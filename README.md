@@ -1,6 +1,7 @@
 # Peijia Long Edits for Faster R-CNN Web Application
 
 The application supports detection and counting on strawberries and watermelons. 
+
 To run the application, run faster-rcnn-app.py located at "/models/research/object_detection/faster-rcnn-app.py".
 The test images are put in folder "test_images", located at "/models/research/object_detection/test_images".
 
